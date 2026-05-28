@@ -19,6 +19,6 @@ for a in range(2,n+1):
 for a,b,c,d in res:
     print(f"Cube = {a},Triple = ({b},{c},{d})")
                 
-        
-            
+#题目是找出符合这个立方形式的多组数据        
+            #a**3==b**3+c**3+d**3
     
